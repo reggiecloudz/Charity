@@ -1,0 +1,652 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Charity.Web
+build_property.RootNamespace = Charity.Web
+build_property.ProjectDir = /home/adler/Projects/dotnet/Charity/Charity.Web/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/adler/Projects/dotnet/Charity/Charity.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Db25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcHBsaWNhbnRzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcHBsaWNhbnRzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcHBsaWNhbnRzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcHBsaWNhbnRzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcHBsaWNhbnRzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcnRpY2xlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcnRpY2xlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcnRpY2xlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcnRpY2xlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9BcnRpY2xlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYW1wYWlnbnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYW1wYWlnbnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYW1wYWlnbnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYW1wYWlnbnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYW1wYWlnbnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXRlZ29yaWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXRlZ29yaWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXRlZ29yaWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXRlZ29yaWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXRlZ29yaWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXVzZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXVzZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXVzZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXVzZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9DYXVzZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Db21tZW50cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Db21tZW50cy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Db21tZW50cy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Db21tZW50cy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Db21tZW50cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9EYXNoYm9hcmQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Eb25hdGlvbnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Eb25hdGlvbnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Eb25hdGlvbnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Eb25hdGlvbnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Eb25hdGlvbnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Gb3J1bXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Gb3J1bXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Gb3J1bXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Gb3J1bXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Gb3J1bXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nTWVtYmVycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nTWVtYmVycy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nTWVtYmVycy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nTWVtYmVycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nTWVtYmVycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nT3JnYW5pemVycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nT3JnYW5pemVycy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nT3JnYW5pemVycy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nT3JnYW5pemVycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5nT3JnYW5pemVycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5ncy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5ncy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5ncy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5ncy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZWV0aW5ncy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZW1iZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZW1iZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZW1iZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZW1iZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9NZW1iZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9PcHBvcnR1bml0aWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9PcHBvcnR1bml0aWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9PcHBvcnR1bml0aWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9PcHBvcnR1bml0aWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9PcHBvcnR1bml0aWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6YXRpb25zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6YXRpb25zL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6YXRpb25zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6YXRpb25zL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6YXRpb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6ZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6ZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6ZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6ZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Pcmdhbml6ZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Qb3N0cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Qb3N0cy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Qb3N0cy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Qb3N0cy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Qb3N0cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9SZXBsaWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9SZXBsaWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9SZXBsaWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9SZXBsaWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9SZXBsaWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9TaGFyZWQvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Partials/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9TaGFyZWQvUGFydGlhbHMvX05hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Partials/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9TaGFyZWQvUGFydGlhbHMvX1NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9TaGFyZWQvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9TaGFyZWQvX0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9TaGFyZWQvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtTWVtYmVycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtTWVtYmVycy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtTWVtYmVycy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtTWVtYmVycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtTWVtYmVycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtT3JnYW5pemVycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtT3JnYW5pemVycy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtT3JnYW5pemVycy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtT3JnYW5pemVycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtT3JnYW5pemVycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9UZWFtcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Ub3BpY3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Ub3BpY3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Ub3BpY3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Ub3BpY3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Ub3BpY3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Vc2Vycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Vc2Vycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Vc2Vycy9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb2x1bnRlZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb2x1bnRlZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb2x1bnRlZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb2x1bnRlZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb2x1bnRlZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb3Rlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb3Rlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb3Rlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb3Rlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9Wb3Rlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvT3JnYW5pemF0aW9ucy9WaWV3cy9fVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Chat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2VuZ2luZy9DaGF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Find.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2VuZ2luZy9GaW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2VuZ2luZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Private.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2VuZ2luZy9Qcml2YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Components/Room/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUm9vbS9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_NewRoomFormModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19OZXdSb29tRm9ybU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Tiny/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlueS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6x4sbr3w2y

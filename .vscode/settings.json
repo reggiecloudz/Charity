@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8e107507-ebd0-4842-bd41-9b82180a205e/appservices/subscriptions/8e107507-ebd0-4842-bd41-9b82180a205e/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ihearttanya",
+    "appService.deploySubpath": "Charity.Web/bin/Publish"
+}
