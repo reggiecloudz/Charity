@@ -1,9 +1,3 @@
-sudo -u postgres psql
-postgres=# create database charity;
-postgres=# create user charity with encrypted password 'cmsdbon02122023';
-postgres=# grant all privileges on database charity to charity;
-\c charity;
-
 dotnet aspnet-codegenerator controller \
     -name OrganizationsController \
     -m Organization \

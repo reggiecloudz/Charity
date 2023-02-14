@@ -13,7 +13,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -537810144,
+        "HashCode": 697948967,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -97,7 +97,7 @@
         }
       },
       {
-        "HashCode": 731627952,
+        "HashCode": -256415821,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -182,7 +182,7 @@
         }
       },
       {
-        "HashCode": 1697439100,
+        "HashCode": -1742923310,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -215,7 +215,7 @@
         }
       },
       {
-        "HashCode": -273447240,
+        "HashCode": -1116526285,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -249,7 +249,7 @@
         }
       },
       {
-        "HashCode": -1637038583,
+        "HashCode": 1854277338,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -270,7 +270,7 @@
         }
       },
       {
-        "HashCode": 622041172,
+        "HashCode": 1843851277,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -292,7 +292,7 @@
         }
       },
       {
-        "HashCode": -1188921688,
+        "HashCode": -170267873,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -397,7 +397,7 @@
         }
       },
       {
-        "HashCode": -154302564,
+        "HashCode": 1949074329,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -503,7 +503,7 @@
         }
       },
       {
-        "HashCode": 1190477306,
+        "HashCode": 622290057,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -536,7 +536,7 @@
         }
       },
       {
-        "HashCode": 328837150,
+        "HashCode": 561864611,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -570,7 +570,7 @@
         }
       },
       {
-        "HashCode": -2113261049,
+        "HashCode": -1707453278,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -603,7 +603,7 @@
         }
       },
       {
-        "HashCode": -1868891619,
+        "HashCode": 1977665161,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -637,7 +637,7 @@
         }
       },
       {
-        "HashCode": -1812892051,
+        "HashCode": 675136751,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -670,7 +670,7 @@
         }
       },
       {
-        "HashCode": -2034277756,
+        "HashCode": -783656252,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -704,7 +704,7 @@
         }
       },
       {
-        "HashCode": 1433314724,
+        "HashCode": 310078139,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -725,7 +725,7 @@
         }
       },
       {
-        "HashCode": 1138177700,
+        "HashCode": 1529843516,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -747,7 +747,7 @@
         }
       },
       {
-        "HashCode": -623114539,
+        "HashCode": 450801885,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -778,7 +778,7 @@
         }
       },
       {
-        "HashCode": -703746655,
+        "HashCode": 790346458,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -810,7 +810,7 @@
         }
       },
       {
-        "HashCode": -1939280053,
+        "HashCode": 1911928166,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -831,7 +831,7 @@
         }
       },
       {
-        "HashCode": -1797584788,
+        "HashCode": 700125567,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -853,7 +853,7 @@
         }
       },
       {
-        "HashCode": 211004395,
+        "HashCode": -719334588,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -928,7 +928,7 @@
         }
       },
       {
-        "HashCode": 1744406508,
+        "HashCode": -1078755455,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1004,7 +1004,7 @@
         }
       },
       {
-        "HashCode": -1806586376,
+        "HashCode": -1639589250,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1025,7 +1025,7 @@
         }
       },
       {
-        "HashCode": -598681012,
+        "HashCode": 66661006,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1047,7 +1047,7 @@
         }
       },
       {
-        "HashCode": -807090772,
+        "HashCode": 424415718,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1089,7 +1089,7 @@
         }
       },
       {
-        "HashCode": -1836491525,
+        "HashCode": -2081462295,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1132,7 +1132,7 @@
         }
       },
       {
-        "HashCode": 546932098,
+        "HashCode": -1172011265,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1174,7 +1174,7 @@
         }
       },
       {
-        "HashCode": -683848185,
+        "HashCode": 2054407366,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1217,7 +1217,7 @@
         }
       },
       {
-        "HashCode": 77690321,
+        "HashCode": 1526815622,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1238,7 +1238,7 @@
         }
       },
       {
-        "HashCode": -1362877471,
+        "HashCode": 247093687,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1260,7 +1260,7 @@
         }
       },
       {
-        "HashCode": 358881704,
+        "HashCode": -1405508721,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1302,7 +1302,7 @@
         }
       },
       {
-        "HashCode": -2017651425,
+        "HashCode": 1175219746,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1345,7 +1345,7 @@
         }
       },
       {
-        "HashCode": 1029576520,
+        "HashCode": -1874945057,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1453,7 +1453,7 @@
         }
       },
       {
-        "HashCode": -1583366607,
+        "HashCode": 1390666292,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1562,7 +1562,7 @@
         }
       },
       {
-        "HashCode": 520462764,
+        "HashCode": 1332387160,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1583,7 +1583,7 @@
         }
       },
       {
-        "HashCode": 1947193460,
+        "HashCode": 320162829,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1605,7 +1605,7 @@
         }
       },
       {
-        "HashCode": -820241369,
+        "HashCode": -1061604810,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1638,7 +1638,7 @@
         }
       },
       {
-        "HashCode": 273757187,
+        "HashCode": -2100510953,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1672,7 +1672,7 @@
         }
       },
       {
-        "HashCode": -1484246401,
+        "HashCode": 941362478,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1693,7 +1693,7 @@
         }
       },
       {
-        "HashCode": -9060303,
+        "HashCode": -817999775,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1715,7 +1715,7 @@
         }
       },
       {
-        "HashCode": -1202331356,
+        "HashCode": -1788389676,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1734,7 +1734,7 @@
         }
       },
       {
-        "HashCode": 2147436692,
+        "HashCode": -1018031952,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1754,7 +1754,7 @@
         }
       },
       {
-        "HashCode": -1219474872,
+        "HashCode": 272640704,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1859,7 +1859,7 @@
         }
       },
       {
-        "HashCode": -1783348469,
+        "HashCode": 1340147748,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1965,7 +1965,7 @@
         }
       },
       {
-        "HashCode": -983715937,
+        "HashCode": 841464568,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1998,7 +1998,7 @@
         }
       },
       {
-        "HashCode": -811607992,
+        "HashCode": 1856932352,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2032,7 +2032,7 @@
         }
       },
       {
-        "HashCode": 599815692,
+        "HashCode": 1082346917,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2104,7 +2104,7 @@
         }
       },
       {
-        "HashCode": -45330313,
+        "HashCode": 1191958682,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2177,7 +2177,7 @@
         }
       },
       {
-        "HashCode": 632042180,
+        "HashCode": 548605438,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2285,7 +2285,7 @@
         }
       },
       {
-        "HashCode": -597258258,
+        "HashCode": 177042134,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2394,7 +2394,7 @@
         }
       },
       {
-        "HashCode": -505648683,
+        "HashCode": -352143504,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2436,7 +2436,7 @@
         }
       },
       {
-        "HashCode": 744705583,
+        "HashCode": -286857009,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2479,7 +2479,7 @@
         }
       },
       {
-        "HashCode": 10493867,
+        "HashCode": -1925390860,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2576,7 +2576,7 @@
         }
       },
       {
-        "HashCode": -1426024429,
+        "HashCode": -1551357518,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2674,7 +2674,7 @@
         }
       },
       {
-        "HashCode": -1558219881,
+        "HashCode": 676717471,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2738,7 +2738,7 @@
         }
       },
       {
-        "HashCode": -1620033368,
+        "HashCode": 1936883803,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2803,7 +2803,7 @@
         }
       },
       {
-        "HashCode": 511101824,
+        "HashCode": 806794418,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2911,7 +2911,7 @@
         }
       },
       {
-        "HashCode": -1114552532,
+        "HashCode": -1633038006,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3020,7 +3020,7 @@
         }
       },
       {
-        "HashCode": 997921680,
+        "HashCode": -1541816598,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3041,7 +3041,7 @@
         }
       },
       {
-        "HashCode": -72818049,
+        "HashCode": -575824928,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3063,7 +3063,7 @@
         }
       },
       {
-        "HashCode": -312493148,
+        "HashCode": -1898697101,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3161,7 +3161,7 @@
         }
       },
       {
-        "HashCode": -220768123,
+        "HashCode": 24313602,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3260,7 +3260,7 @@
         }
       },
       {
-        "HashCode": -625344449,
+        "HashCode": -502406298,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3281,7 +3281,7 @@
         }
       },
       {
-        "HashCode": 1281613149,
+        "HashCode": -2034597640,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3303,7 +3303,7 @@
         }
       },
       {
-        "HashCode": 89985488,
+        "HashCode": -277448102,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3375,7 +3375,7 @@
         }
       },
       {
-        "HashCode": 1728411740,
+        "HashCode": 1301886085,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3448,7 +3448,7 @@
         }
       },
       {
-        "HashCode": -280976401,
+        "HashCode": -558706899,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3520,7 +3520,7 @@
         }
       },
       {
-        "HashCode": 643186124,
+        "HashCode": -866804485,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3593,7 +3593,7 @@
         }
       },
       {
-        "HashCode": -1050255367,
+        "HashCode": 1458001518,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3647,7 +3647,7 @@
         }
       },
       {
-        "HashCode": -1559119436,
+        "HashCode": -1772579262,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3702,7 +3702,7 @@
         }
       },
       {
-        "HashCode": 1083576525,
+        "HashCode": -70838629,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3743,7 +3743,7 @@
         }
       },
       {
-        "HashCode": -1679653006,
+        "HashCode": -35816815,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3785,7 +3785,7 @@
         }
       },
       {
-        "HashCode": -1380210435,
+        "HashCode": -1906979618,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3826,7 +3826,7 @@
         }
       },
       {
-        "HashCode": -369414613,
+        "HashCode": 1916763564,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3868,7 +3868,7 @@
         }
       },
       {
-        "HashCode": -1128051932,
+        "HashCode": 1629808243,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3931,7 +3931,7 @@
         }
       },
       {
-        "HashCode": -448571907,
+        "HashCode": -1181216402,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3995,7 +3995,7 @@
         }
       },
       {
-        "HashCode": -1826997584,
+        "HashCode": -253599213,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4016,7 +4016,7 @@
         }
       },
       {
-        "HashCode": 799721245,
+        "HashCode": -1599902637,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4038,7 +4038,7 @@
         }
       },
       {
-        "HashCode": 673846522,
+        "HashCode": 862757392,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4070,7 +4070,7 @@
         }
       },
       {
-        "HashCode": -1513002826,
+        "HashCode": 1396872781,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4103,7 +4103,7 @@
         }
       },
       {
-        "HashCode": 2096730848,
+        "HashCode": -93630626,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4124,7 +4124,7 @@
         }
       },
       {
-        "HashCode": 1863902467,
+        "HashCode": 1048855062,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4146,7 +4146,7 @@
         }
       },
       {
-        "HashCode": -1401041786,
+        "HashCode": 956017188,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4165,7 +4165,7 @@
         }
       },
       {
-        "HashCode": -1993114873,
+        "HashCode": 1167735669,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4185,7 +4185,7 @@
         }
       },
       {
-        "HashCode": 692735721,
+        "HashCode": -823569462,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4217,7 +4217,7 @@
         }
       },
       {
-        "HashCode": -1041033601,
+        "HashCode": -642747731,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4250,7 +4250,7 @@
         }
       },
       {
-        "HashCode": -2144374951,
+        "HashCode": -2076132712,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4271,7 +4271,7 @@
         }
       },
       {
-        "HashCode": 655813758,
+        "HashCode": -1932012293,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4293,7 +4293,7 @@
         }
       },
       {
-        "HashCode": -1591399284,
+        "HashCode": 52147470,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4356,7 +4356,7 @@
         }
       },
       {
-        "HashCode": -458424084,
+        "HashCode": -400342561,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4420,7 +4420,7 @@
         }
       },
       {
-        "HashCode": -25090487,
+        "HashCode": -499839269,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4441,7 +4441,7 @@
         }
       },
       {
-        "HashCode": -2031178147,
+        "HashCode": -925778829,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4463,7 +4463,7 @@
         }
       },
       {
-        "HashCode": -860826360,
+        "HashCode": 1975050580,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4496,7 +4496,7 @@
         }
       },
       {
-        "HashCode": 1560355647,
+        "HashCode": -114759854,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4530,7 +4530,7 @@
         }
       },
       {
-        "HashCode": 1106656147,
+        "HashCode": -674927919,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4652,7 +4652,7 @@
         }
       },
       {
-        "HashCode": 1392334645,
+        "HashCode": 152566935,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4775,7 +4775,7 @@
         }
       },
       {
-        "HashCode": -505144713,
+        "HashCode": -1444045607,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4808,7 +4808,7 @@
         }
       },
       {
-        "HashCode": -2076831883,
+        "HashCode": 305414403,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4842,7 +4842,7 @@
         }
       },
       {
-        "HashCode": 1542315772,
+        "HashCode": -251071248,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4875,7 +4875,7 @@
         }
       },
       {
-        "HashCode": 335971249,
+        "HashCode": -1689444221,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4909,7 +4909,7 @@
         }
       },
       {
-        "HashCode": -755847814,
+        "HashCode": 299133837,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4942,7 +4942,7 @@
         }
       },
       {
-        "HashCode": 1853902814,
+        "HashCode": -446361632,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4976,7 +4976,7 @@
         }
       },
       {
-        "HashCode": 352901565,
+        "HashCode": 154090267,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5059,7 +5059,7 @@
         }
       },
       {
-        "HashCode": 1660137328,
+        "HashCode": -1424845492,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5142,7 +5142,7 @@
         }
       },
       {
-        "HashCode": 756754295,
+        "HashCode": -1405719788,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5225,7 +5225,7 @@
         }
       },
       {
-        "HashCode": -1337065858,
+        "HashCode": 1399720548,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5308,7 +5308,7 @@
         }
       },
       {
-        "HashCode": -1073935050,
+        "HashCode": 757716365,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5391,7 +5391,7 @@
         }
       },
       {
-        "HashCode": -1714751675,
+        "HashCode": -1898702787,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5474,7 +5474,7 @@
         }
       },
       {
-        "HashCode": 1411653246,
+        "HashCode": -1739659454,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5557,7 +5557,7 @@
         }
       },
       {
-        "HashCode": -603024800,
+        "HashCode": -2020219085,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5640,7 +5640,7 @@
         }
       },
       {
-        "HashCode": 2120771485,
+        "HashCode": 1193653199,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5723,7 +5723,7 @@
         }
       },
       {
-        "HashCode": -1175072560,
+        "HashCode": -2081252374,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5806,7 +5806,7 @@
         }
       },
       {
-        "HashCode": 410659006,
+        "HashCode": -155635109,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5889,7 +5889,7 @@
         }
       },
       {
-        "HashCode": 2051388988,
+        "HashCode": 2079187860,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5972,7 +5972,7 @@
         }
       },
       {
-        "HashCode": -203995977,
+        "HashCode": -1425583758,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6055,7 +6055,7 @@
         }
       },
       {
-        "HashCode": -1605595117,
+        "HashCode": 1778927558,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6138,7 +6138,7 @@
         }
       },
       {
-        "HashCode": 301912147,
+        "HashCode": 1085733666,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6221,7 +6221,7 @@
         }
       },
       {
-        "HashCode": -1062059000,
+        "HashCode": 1158979901,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6304,7 +6304,7 @@
         }
       },
       {
-        "HashCode": -757932652,
+        "HashCode": -1603963621,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6387,7 +6387,7 @@
         }
       },
       {
-        "HashCode": 768618,
+        "HashCode": -1501912033,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6470,7 +6470,7 @@
         }
       },
       {
-        "HashCode": -1514178122,
+        "HashCode": 208783809,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6553,7 +6553,7 @@
         }
       },
       {
-        "HashCode": 808909036,
+        "HashCode": -1196603289,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6636,7 +6636,7 @@
         }
       },
       {
-        "HashCode": 547042310,
+        "HashCode": -1424037174,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6719,7 +6719,7 @@
         }
       },
       {
-        "HashCode": -1708614575,
+        "HashCode": -1005745387,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6802,7 +6802,7 @@
         }
       },
       {
-        "HashCode": -1631153731,
+        "HashCode": -932392090,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6885,7 +6885,7 @@
         }
       },
       {
-        "HashCode": -2038991071,
+        "HashCode": -1397161758,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6968,7 +6968,7 @@
         }
       },
       {
-        "HashCode": -1429845731,
+        "HashCode": 1780067341,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7051,7 +7051,7 @@
         }
       },
       {
-        "HashCode": 1533172495,
+        "HashCode": 1990945270,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7134,7 +7134,7 @@
         }
       },
       {
-        "HashCode": 699793455,
+        "HashCode": -2101023447,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7217,7 +7217,7 @@
         }
       },
       {
-        "HashCode": 102522996,
+        "HashCode": -1453832157,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7300,7 +7300,7 @@
         }
       },
       {
-        "HashCode": -1782135634,
+        "HashCode": -411765583,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7383,7 +7383,7 @@
         }
       },
       {
-        "HashCode": -1329353192,
+        "HashCode": -1134737764,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7466,7 +7466,7 @@
         }
       },
       {
-        "HashCode": 1132045642,
+        "HashCode": -2003330486,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7549,7 +7549,7 @@
         }
       },
       {
-        "HashCode": -1070765751,
+        "HashCode": -1018413660,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7632,7 +7632,7 @@
         }
       },
       {
-        "HashCode": -1634578500,
+        "HashCode": -1289632273,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7715,7 +7715,7 @@
         }
       },
       {
-        "HashCode": -1483348677,
+        "HashCode": -756083514,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7798,7 +7798,7 @@
         }
       },
       {
-        "HashCode": 658599127,
+        "HashCode": -919178872,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7881,7 +7881,7 @@
         }
       },
       {
-        "HashCode": -1256925706,
+        "HashCode": 1570635495,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7964,7 +7964,7 @@
         }
       },
       {
-        "HashCode": 1881436805,
+        "HashCode": -1184873674,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8047,7 +8047,7 @@
         }
       },
       {
-        "HashCode": -1746725786,
+        "HashCode": 441785724,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8130,7 +8130,7 @@
         }
       },
       {
-        "HashCode": -1201437056,
+        "HashCode": 675994396,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8213,7 +8213,7 @@
         }
       },
       {
-        "HashCode": 39625019,
+        "HashCode": -1475524396,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8296,7 +8296,7 @@
         }
       },
       {
-        "HashCode": 316153559,
+        "HashCode": 823281522,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8379,7 +8379,7 @@
         }
       },
       {
-        "HashCode": 1460062196,
+        "HashCode": -785138875,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8462,7 +8462,7 @@
         }
       },
       {
-        "HashCode": -1380070359,
+        "HashCode": -1562540305,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8545,7 +8545,7 @@
         }
       },
       {
-        "HashCode": -787574207,
+        "HashCode": -1600690700,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8628,7 +8628,7 @@
         }
       },
       {
-        "HashCode": 1001968408,
+        "HashCode": 189593230,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8711,7 +8711,7 @@
         }
       },
       {
-        "HashCode": 34656984,
+        "HashCode": -1889703591,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8794,7 +8794,7 @@
         }
       },
       {
-        "HashCode": -864550938,
+        "HashCode": 1154959781,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8877,7 +8877,7 @@
         }
       },
       {
-        "HashCode": -1196786051,
+        "HashCode": -1874193471,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8960,7 +8960,7 @@
         }
       },
       {
-        "HashCode": -1444958775,
+        "HashCode": -239915369,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9043,7 +9043,7 @@
         }
       },
       {
-        "HashCode": -1671930761,
+        "HashCode": -2133289571,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9126,7 +9126,7 @@
         }
       },
       {
-        "HashCode": 1009992551,
+        "HashCode": 1988551463,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9209,7 +9209,7 @@
         }
       },
       {
-        "HashCode": -1217469403,
+        "HashCode": -1003712725,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9292,7 +9292,7 @@
         }
       },
       {
-        "HashCode": -1134863659,
+        "HashCode": -2133332923,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9375,7 +9375,7 @@
         }
       },
       {
-        "HashCode": -372596887,
+        "HashCode": -883998386,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9458,7 +9458,7 @@
         }
       },
       {
-        "HashCode": -1439434742,
+        "HashCode": -166433351,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9541,7 +9541,7 @@
         }
       },
       {
-        "HashCode": 434050404,
+        "HashCode": 1360148916,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9624,7 +9624,7 @@
         }
       },
       {
-        "HashCode": 131880313,
+        "HashCode": 1439265604,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9707,7 +9707,7 @@
         }
       },
       {
-        "HashCode": 456873934,
+        "HashCode": -543364475,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9790,7 +9790,7 @@
         }
       },
       {
-        "HashCode": 150120853,
+        "HashCode": -1646244655,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9873,7 +9873,7 @@
         }
       },
       {
-        "HashCode": -130220684,
+        "HashCode": -1435457559,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9956,7 +9956,7 @@
         }
       },
       {
-        "HashCode": 1551824074,
+        "HashCode": 786926897,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10039,7 +10039,7 @@
         }
       },
       {
-        "HashCode": -1176076202,
+        "HashCode": -255217218,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10122,7 +10122,7 @@
         }
       },
       {
-        "HashCode": -630716795,
+        "HashCode": -1098513342,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10205,7 +10205,7 @@
         }
       },
       {
-        "HashCode": 98918131,
+        "HashCode": -1156650177,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10288,7 +10288,7 @@
         }
       },
       {
-        "HashCode": -1876159005,
+        "HashCode": 2076079068,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10371,7 +10371,7 @@
         }
       },
       {
-        "HashCode": 334999954,
+        "HashCode": -959243898,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10454,7 +10454,7 @@
         }
       },
       {
-        "HashCode": 2065347838,
+        "HashCode": 1137038436,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10537,7 +10537,7 @@
         }
       },
       {
-        "HashCode": -577731230,
+        "HashCode": -826469231,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10620,7 +10620,7 @@
         }
       },
       {
-        "HashCode": 83238671,
+        "HashCode": 365535135,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10703,7 +10703,7 @@
         }
       },
       {
-        "HashCode": -2007815966,
+        "HashCode": 1584277329,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10786,7 +10786,7 @@
         }
       },
       {
-        "HashCode": -1326354956,
+        "HashCode": -809654350,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10869,7 +10869,7 @@
         }
       },
       {
-        "HashCode": 1783754935,
+        "HashCode": -1603218016,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10952,7 +10952,7 @@
         }
       },
       {
-        "HashCode": 766090890,
+        "HashCode": 1601987106,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11035,7 +11035,7 @@
         }
       },
       {
-        "HashCode": 1362458574,
+        "HashCode": 1574459433,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11118,7 +11118,7 @@
         }
       },
       {
-        "HashCode": -1727372445,
+        "HashCode": -996837520,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11201,7 +11201,7 @@
         }
       },
       {
-        "HashCode": -1534335038,
+        "HashCode": 1318994415,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11284,7 +11284,7 @@
         }
       },
       {
-        "HashCode": -1690733103,
+        "HashCode": -2105445202,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11367,7 +11367,7 @@
         }
       },
       {
-        "HashCode": 394844357,
+        "HashCode": 491887502,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11450,7 +11450,7 @@
         }
       },
       {
-        "HashCode": 1575932279,
+        "HashCode": 1755310774,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11533,7 +11533,7 @@
         }
       },
       {
-        "HashCode": -2080191071,
+        "HashCode": -673801052,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11616,7 +11616,7 @@
         }
       },
       {
-        "HashCode": 1347122673,
+        "HashCode": 89456236,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11699,7 +11699,7 @@
         }
       },
       {
-        "HashCode": -1199425935,
+        "HashCode": 2038351659,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11782,7 +11782,7 @@
         }
       },
       {
-        "HashCode": -411641861,
+        "HashCode": -1611194404,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11865,7 +11865,7 @@
         }
       },
       {
-        "HashCode": 325306796,
+        "HashCode": 1914554867,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11948,7 +11948,7 @@
         }
       },
       {
-        "HashCode": -217929676,
+        "HashCode": -989728980,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12031,7 +12031,7 @@
         }
       },
       {
-        "HashCode": -435014504,
+        "HashCode": 1568256625,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12114,7 +12114,7 @@
         }
       },
       {
-        "HashCode": 1958767899,
+        "HashCode": -208183335,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12197,7 +12197,7 @@
         }
       },
       {
-        "HashCode": 2011841076,
+        "HashCode": 1931235312,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12280,7 +12280,7 @@
         }
       },
       {
-        "HashCode": 1654408654,
+        "HashCode": 1376599016,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12363,7 +12363,7 @@
         }
       },
       {
-        "HashCode": -432035179,
+        "HashCode": 963570682,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12446,7 +12446,7 @@
         }
       },
       {
-        "HashCode": 1108697097,
+        "HashCode": -1633954709,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12529,7 +12529,7 @@
         }
       },
       {
-        "HashCode": -149426323,
+        "HashCode": 987687017,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12612,7 +12612,7 @@
         }
       },
       {
-        "HashCode": -1824581179,
+        "HashCode": -747356967,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12651,7 +12651,7 @@
         }
       },
       {
-        "HashCode": -821918185,
+        "HashCode": 512336111,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -12968,7 +12968,7 @@
         }
       },
       {
-        "HashCode": -111018818,
+        "HashCode": 481410364,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13167,7 +13167,7 @@
         }
       },
       {
-        "HashCode": -454230003,
+        "HashCode": 1054134058,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13296,7 +13296,7 @@
         }
       },
       {
-        "HashCode": 619584233,
+        "HashCode": -490537160,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13353,7 +13353,7 @@
         }
       },
       {
-        "HashCode": -1734626933,
+        "HashCode": -198469899,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13487,7 +13487,7 @@
         }
       },
       {
-        "HashCode": -1455717713,
+        "HashCode": 2009780423,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13535,7 +13535,7 @@
         }
       },
       {
-        "HashCode": -187745257,
+        "HashCode": 1539383566,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13954,7 +13954,7 @@
         }
       },
       {
-        "HashCode": 783242059,
+        "HashCode": -233227690,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14058,7 +14058,7 @@
         }
       },
       {
-        "HashCode": 1551434857,
+        "HashCode": -907053774,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14106,7 +14106,7 @@
         }
       },
       {
-        "HashCode": 353007307,
+        "HashCode": 1431058963,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14178,7 +14178,7 @@
         }
       },
       {
-        "HashCode": -2029103151,
+        "HashCode": 2142784487,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14213,7 +14213,7 @@
         }
       },
       {
-        "HashCode": 91950313,
+        "HashCode": -1163595269,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14411,7 +14411,7 @@
         }
       },
       {
-        "HashCode": -1175056145,
+        "HashCode": 1713929760,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14441,7 +14441,7 @@
         }
       },
       {
-        "HashCode": 1867737889,
+        "HashCode": -1259359593,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14524,7 +14524,7 @@
         }
       },
       {
-        "HashCode": 1630422833,
+        "HashCode": -2089173297,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14555,7 +14555,7 @@
         }
       },
       {
-        "HashCode": -871191741,
+        "HashCode": -1881993771,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14710,7 +14710,7 @@
         }
       },
       {
-        "HashCode": -2022476940,
+        "HashCode": 782723871,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14771,7 +14771,7 @@
         }
       },
       {
-        "HashCode": -1583462116,
+        "HashCode": -1274083562,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14815,7 +14815,7 @@
         }
       },
       {
-        "HashCode": 423907780,
+        "HashCode": -1237144204,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14850,7 +14850,7 @@
         }
       },
       {
-        "HashCode": -1422297002,
+        "HashCode": 547531625,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14886,7 +14886,7 @@
         }
       },
       {
-        "HashCode": 1936222232,
+        "HashCode": 577327096,
         "Kind": "MVC.ViewComponent",
         "Name": "__Generated__RoomViewComponentTagHelper",
         "AssemblyName": "Charity.Web",
@@ -14903,7 +14903,7 @@
         }
       },
       {
-        "HashCode": 681565086,
+        "HashCode": -1335560181,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14999,7 +14999,7 @@
         }
       },
       {
-        "HashCode": -205599069,
+        "HashCode": -1767969534,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15121,7 +15121,7 @@
         }
       },
       {
-        "HashCode": 219318139,
+        "HashCode": -343990161,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15243,7 +15243,7 @@
         }
       },
       {
-        "HashCode": -1349113742,
+        "HashCode": 438669046,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15376,7 +15376,7 @@
         }
       },
       {
-        "HashCode": 1810251951,
+        "HashCode": -1542000308,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15509,7 +15509,7 @@
         }
       },
       {
-        "HashCode": 2145228088,
+        "HashCode": 1275589281,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15642,7 +15642,7 @@
         }
       },
       {
-        "HashCode": -204972487,
+        "HashCode": 440323602,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15775,7 +15775,7 @@
         }
       },
       {
-        "HashCode": -1177326282,
+        "HashCode": 1026220161,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15908,7 +15908,7 @@
         }
       },
       {
-        "HashCode": -405881938,
+        "HashCode": 2103211200,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16041,7 +16041,7 @@
         }
       },
       {
-        "HashCode": -1501076565,
+        "HashCode": -1678899060,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16174,7 +16174,7 @@
         }
       },
       {
-        "HashCode": 1210355795,
+        "HashCode": -100335712,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16307,7 +16307,7 @@
         }
       },
       {
-        "HashCode": -983321174,
+        "HashCode": 1719232281,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16440,7 +16440,7 @@
         }
       },
       {
-        "HashCode": 1999632522,
+        "HashCode": 1282380485,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16573,7 +16573,7 @@
         }
       },
       {
-        "HashCode": -844746649,
+        "HashCode": 565643336,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16706,7 +16706,7 @@
         }
       },
       {
-        "HashCode": -1821743118,
+        "HashCode": 1093288858,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16839,7 +16839,7 @@
         }
       },
       {
-        "HashCode": 1179958770,
+        "HashCode": -1914445384,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16961,7 +16961,7 @@
         }
       },
       {
-        "HashCode": 1434814393,
+        "HashCode": -962636567,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17083,7 +17083,7 @@
         }
       },
       {
-        "HashCode": 386088417,
+        "HashCode": 1445949946,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17170,7 +17170,7 @@
         }
       },
       {
-        "HashCode": 2119941759,
+        "HashCode": -1663799828,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17258,7 +17258,7 @@
         }
       },
       {
-        "HashCode": 140877126,
+        "HashCode": 573359369,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17345,7 +17345,7 @@
         }
       },
       {
-        "HashCode": 1849116700,
+        "HashCode": -2012906368,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17433,7 +17433,7 @@
         }
       },
       {
-        "HashCode": -1586988951,
+        "HashCode": 287787457,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17520,7 +17520,7 @@
         }
       },
       {
-        "HashCode": 757696197,
+        "HashCode": 1386277901,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17608,7 +17608,7 @@
         }
       },
       {
-        "HashCode": -265206663,
+        "HashCode": -2115664958,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17695,7 +17695,7 @@
         }
       },
       {
-        "HashCode": -1692732123,
+        "HashCode": -354691503,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17783,7 +17783,7 @@
         }
       },
       {
-        "HashCode": -350325599,
+        "HashCode": -218562953,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17870,7 +17870,7 @@
         }
       },
       {
-        "HashCode": -487392478,
+        "HashCode": 1537737688,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17958,7 +17958,7 @@
         }
       },
       {
-        "HashCode": 86389665,
+        "HashCode": 1877075420,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18045,7 +18045,7 @@
         }
       },
       {
-        "HashCode": 789289222,
+        "HashCode": 1245272883,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18133,7 +18133,7 @@
         }
       },
       {
-        "HashCode": -471535272,
+        "HashCode": 581615114,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18220,7 +18220,7 @@
         }
       },
       {
-        "HashCode": -1462596595,
+        "HashCode": -472178161,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18308,7 +18308,7 @@
         }
       },
       {
-        "HashCode": 1408646687,
+        "HashCode": 891643065,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18347,7 +18347,7 @@
         }
       },
       {
-        "HashCode": -1730754703,
+        "HashCode": -562067579,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18391,743 +18391,8 @@
   "RootNamespace": "Charity.Web",
   "Documents": [
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Members\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/_StatusMessage.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Users\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Topics\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Topics\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Tiny/Index.cshtml",
-      "TargetPath": "Views\\Tiny\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_LoginPartial.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Dashboard/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Dashboard\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Partials/_Navbar.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Shared\\Partials\\_Navbar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Index.cshtml",
-      "TargetPath": "Views\\Messenging\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Details.cshtml",
       "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Members\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Partials/_Sidebar.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Shared\\Partials\\_Sidebar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Logout.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_NewRoomFormModal.cshtml",
-      "TargetPath": "Views\\Shared\\Partials\\_NewRoomFormModal.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Members\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Users\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Components/Room/Default.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\Room\\Default.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Members\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_Sidebar.cshtml",
-      "TargetPath": "Views\\Shared\\Partials\\_Sidebar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Topics\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Chat.cshtml",
-      "TargetPath": "Views\\Messenging\\Chat.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ForgotPassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Error.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_Navbar.cshtml",
-      "TargetPath": "Views\\Shared\\Partials\\_Navbar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Topics\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/_ViewImports.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ResetPassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/AccessDenied.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Login.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Update.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Users\\Update.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ConfirmEmail.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Members\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Delete.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Details.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19136,33 +18401,38 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Edit.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Edit.cshtml",
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Lockout.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Find.cshtml",
-      "TargetPath": "Views\\Messenging\\Find.cshtml",
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Create.cshtml",
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Create.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Create.cshtml",
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Private.cshtml",
-      "TargetPath": "Views\\Messenging\\Private.cshtml",
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/_StatusMessage.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19171,8 +18441,483 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Index.cshtml",
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Tiny/Index.cshtml",
+      "TargetPath": "Views\\Tiny\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ForgotPassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Lockout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Components/Room/Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Room\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Index.cshtml",
+      "TargetPath": "Views\\Messenging\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Chat.cshtml",
+      "TargetPath": "Views\\Messenging\\Chat.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Members\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_NewRoomFormModal.cshtml",
+      "TargetPath": "Views\\Shared\\Partials\\_NewRoomFormModal.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Find.cshtml",
+      "TargetPath": "Views\\Messenging\\Find.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Topics\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Members\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_Sidebar.cshtml",
+      "TargetPath": "Views\\Shared\\Partials\\_Sidebar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ResetPassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ConfirmEmail.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Partials/_Sidebar.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Members\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Topics\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/Partials/_Navbar.cshtml",
+      "TargetPath": "Views\\Shared\\Partials\\_Navbar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Replies/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Replies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Update.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Users\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Topics\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/AccessDenied.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Topics/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Topics\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Members\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Forums/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Forums\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_LoginPartial.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Donations/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Donations\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19181,8 +18926,263 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Index.cshtml",
-      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Index.cshtml",
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Error.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingOrganizers/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingOrganizers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Members/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Members\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Votes/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Votes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Shared/_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Meetings/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Meetings\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Articles/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Articles\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamMembers/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamMembers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/Partials/_Navbar.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Shared\\Partials\\_Navbar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Teams/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Teams\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Users\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Categories/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Categories\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Causes/Edit.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Causes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/TeamOrganizers/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\TeamOrganizers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Volunteers/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Volunteers\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/MeetingMembers/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\MeetingMembers\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizations/Create.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizations\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Campaigns/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Campaigns\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Users/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Users\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Views/Messenging/Private.cshtml",
+      "TargetPath": "Views\\Messenging\\Private.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Organizers/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Organizers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Opportunities/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Opportunities\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Comments/Delete.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Comments\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Identity/Pages/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Posts/Details.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Posts\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Applicants/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Applicants\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/adler/Projects/dotnet/Charity/Charity.Web/Areas/Organizations/Views/Dashboard/Index.cshtml",
+      "TargetPath": "Areas\\Organizations\\Views\\Dashboard\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
